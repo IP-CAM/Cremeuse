@@ -7,4 +7,4 @@ Cremeuse is an openCart 2.0 project where I developed and designed a custom them
 Please note that this is not an actual website.
 
 Please check out the live demo of this project.
-http://www.ari-shabaev.com/crememuse
+http://www.ari-shabaev.com/cremeuse/index.php
