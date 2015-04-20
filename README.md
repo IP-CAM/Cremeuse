@@ -12,4 +12,6 @@ Homepage:   http://www.ari-shabaev.com/cremeuse/index.php<br>
 Catalog page: http://www.ari-shabaev.com/cremeuse/index.php?route=product/category&path=33
 
 <h3>My duties!</h3>
-<ul class=""></ul>
+<ul class="menu">
+  <li>fgfgfg</li>
+</ul>
