@@ -18,4 +18,3 @@ Catalog page: http://www.ari-shabaev.com/cremeuse/index.php?route=product/catego
   <li>Added Orange / Grey colors.</li>
   <li>Created the banner image on the homepage, as well as the the hover image effects.</li>
   <li>Designed a beautiful footer.<li>
-
