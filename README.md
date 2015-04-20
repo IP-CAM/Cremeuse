@@ -1,5 +1,6 @@
 # Cremeuse
-Cremeuse! A Delicious OpenCart 2.0 Custom theme.
+
+<i>Cremeuse! A Delicious OpenCart 2.0 Custom theme.</i>
 
 Dear Employers!
 
